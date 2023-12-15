@@ -1,9 +1,9 @@
 const cacheName = "Fortuna-ProtoCars-0.12";
 const contentToCache = [
     "Build/protocarsui.loader.js",
-    "Build/a10611fdfb11636e5bd97db70124f858.js.unityweb",
-    "Build/a490bbf38396e06aa489d62360805848.data.unityweb",
-    "Build/07e0a6edf5cb42bcfe51e2b3ad96bc04.wasm.unityweb",
+    "Build/b4757a1acc5cadf591931c7bb67a0518.js.unityweb",
+    "Build/221c1f4ad00c9760dc3fc99024f6318f.data.unityweb",
+    "Build/c50fff1cb035d77d8b5c92e8f61d9d47.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
